@@ -729,8 +729,8 @@ const horariosData = [
         "nrc": 9415,
         "nombre_curso": "Análisis Instrumental",
         "dia": "JUEVES",
-        "hora_inicio": "12:30:00",
-        "hora_fin": "13:50:00",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
         "profesor": "María Paz Oyarzun",
         "tipo": "Laboratorio"
     },
@@ -756,8 +756,8 @@ const horariosData = [
         "nrc": 9415,
         "nombre_curso": "Análisis Instrumental",
         "dia": "JUEVES",
-        "hora_inicio": "14:30:00",
-        "hora_fin": "15:50:00",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
         "profesor": "María Paz Oyarzun",
         "tipo": "Laboratorio"
     },
@@ -936,8 +936,8 @@ const horariosData = [
         "nrc": 9457,
         "nombre_curso": "Bioquimica General",
         "dia": "VIERNES",
-        "hora_inicio": "12:30:00",
-        "hora_fin": "13:50:00",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
         "profesor": "Claudio Retamal",
         "tipo": "Teoría"
     },
