@@ -432,7 +432,7 @@ const horariosData = [
         "nrc": 9345,
         "nombre_curso": "Fisiopatología TEO",
         "dia": "LUNES",
-        "hora_inicio": "12:30:00",
+        "hora_inicio": "14:30:00",
         "hora_fin": "13:50:00",
         "profesor": "Yasna Varetto",
         "tipo": "Teoría"
@@ -442,7 +442,7 @@ const horariosData = [
         "nombre_curso": "Análisis Instrumental",
         "dia": "LUNES",
         "hora_inicio": "12:30:00",
-        "hora_fin": "13:50:00",
+        "hora_fin": "15:50:00",
         "profesor": "Alejandra Molina",
         "tipo": "Laboratorio"
     },
@@ -669,6 +669,15 @@ const horariosData = [
         "hora_inicio": "09:30:00",
         "hora_fin": "10:50:00",
         "profesor": "Claudia Oyanedel",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9457,
+        "nombre_curso": "Bioquimica General",
+        "dia": "JUEVES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Claudio Retamal",
         "tipo": "Teoría"
     },
     {
