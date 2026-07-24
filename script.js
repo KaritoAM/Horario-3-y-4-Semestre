@@ -432,7 +432,7 @@ const horariosData = [
         "nrc": 9345,
         "nombre_curso": "Fisiopatología TEO",
         "dia": "LUNES",
-        "hora_inicio": "14:30:00",
+        "hora_inicio": "12:30:00",
         "hora_fin": "13:50:00",
         "profesor": "Yasna Varetto",
         "tipo": "Teoría"
@@ -441,7 +441,7 @@ const horariosData = [
         "nrc": 9417,
         "nombre_curso": "Análisis Instrumental",
         "dia": "LUNES",
-        "hora_inicio": "12:30:00",
+        "hora_inicio": "14:30:00",
         "hora_fin": "15:50:00",
         "profesor": "Alejandra Molina",
         "tipo": "Laboratorio"
