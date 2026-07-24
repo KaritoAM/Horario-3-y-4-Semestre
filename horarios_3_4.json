@@ -1,0 +1,920 @@
+[
+    {
+        "nrc": 5051,
+        "nombre_curso": "QCA. ORGÁNICA (LAB) ",
+        "dia": "LUNES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Valeria Gazzano",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 5052,
+        "nombre_curso": "QCA. ORGÁNICA (LAB) ",
+        "dia": "LUNES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Valeria Gazzano",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 5051,
+        "nombre_curso": "QCA. ORGÁNICA (LAB) ",
+        "dia": "LUNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Valeria Gazzano",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 5052,
+        "nombre_curso": "QCA. ORGÁNICA (LAB) ",
+        "dia": "LUNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Valeria Gazzano",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9411,
+        "nombre_curso": "FISICOQUÍMICA (TEO) ",
+        "dia": "LUNES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Juan Carlos Santos",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9411,
+        "nombre_curso": "FISICOQUÍMICA (TEO) ",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Juan Carlos Santos",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 26089,
+        "nombre_curso": "FISICOQUÍMICA (TEO) ",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "A definir",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12538,
+        "nombre_curso": "FISICOQUÍMICA (LAB) ",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Paulina Godoy",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9411,
+        "nombre_curso": "FISICOQUÍMICA (TEO) ",
+        "dia": "JUEVES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Juan Carlos Santos",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 26089,
+        "nombre_curso": "FISICOQUÍMICA (TEO) ",
+        "dia": "JUEVES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "A definir",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 25945,
+        "nombre_curso": "FISICOQUÍMICA (LAB) ",
+        "dia": "JUEVES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "A definir",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12538,
+        "nombre_curso": "FISICOQUÍMICA (LAB) ",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Paulina Godoy",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 25945,
+        "nombre_curso": "FISICOQUÍMICA (LAB) ",
+        "dia": "JUEVES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "A definir",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 5050,
+        "nombre_curso": "QCA. ORGÁNICA (TEO) ",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": ": Andrés Ochoa",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 5050,
+        "nombre_curso": "QCA. ORGÁNICA (TEO) ",
+        "dia": "JUEVES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": ": Andrés Ochoa",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 26089,
+        "nombre_curso": "FISICOQUÍMICA (TEO) ",
+        "dia": "VIERNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "A definir",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9425,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "LUNES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9426,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "LUNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9427,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "LUNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Carolina Olea",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9343,
+        "nombre_curso": "Fisiopatología TEO",
+        "dia": "LUNES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9413,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "LUNES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Pamela Espinoza",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12539,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "MARTES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Paulina Godoy",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9344,
+        "nombre_curso": "Fisiopatología TEO",
+        "dia": "MARTES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Raúl Araneda",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12539,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "MARTES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Paulina Godoy",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9343,
+        "nombre_curso": "Fisiopatología TEO",
+        "dia": "MARTES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9412,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "MARTES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "María Paz Oyarzun",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9414,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "MARTES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Anita Cataldo",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9464,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "MARTES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Claudia Oyanedel",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9461,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "MARTES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Claudia Oyanedel",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9462,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "MARTES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Claudia Oyanedel",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12608,
+        "nombre_curso": "HITO INTEGRATIVO ",
+        "dia": "MARTES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "A definir",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9463,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "MARTES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Claudia Oyanedel",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12609,
+        "nombre_curso": "HITO INTEGRATIVO  ",
+        "dia": "MARTES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "A definir",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9350,
+        "nombre_curso": "Fisiopatología TAL",
+        "dia": "LUNES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9416,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "MARTES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Paulina Godoy",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12610,
+        "nombre_curso": "HITO INTEGRATIVO ",
+        "dia": "MARTES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "A definir",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 12746,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MARTES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Manuel Rain",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 12747,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MARTES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Matías Chavez",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9351,
+        "nombre_curso": "Fisiopatología TAL",
+        "dia": "LUNES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9416,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "MARTES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Paulina Godoy",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9344,
+        "nombre_curso": "Fisiopatología TEO",
+        "dia": "LUNES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Raúl Araneda",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9345,
+        "nombre_curso": "Fisiopatología TEO",
+        "dia": "LUNES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9417,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "LUNES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Alejandra Molina",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9418,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "LUNES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "María Paz Oyarzun",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9419,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "LUNES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Anita Cataldo",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9417,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "LUNES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Alejandra Molina",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9418,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "LUNES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "María Paz Oyarzun",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9419,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "LUNES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Anita Cataldo",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12745,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "LUNES",
+        "hora_inicio": "17:30:00",
+        "hora_fin": "18:50:00",
+        "profesor": "Amaru Aguero",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9426,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9425,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9427,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Carolina Olea",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12730,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Andrés Gonzalez",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12732,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Ximena Barros",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12734,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Manuel Rain",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12730,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Andrés Gonzalez",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12732,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Ximena Barros",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 12734,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Manuel Rain",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9428,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9429,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9428,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9429,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9434,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Carlos Escobar",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9434,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "MIÉRCOLES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Carlos Escobar",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9457,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "JUEVES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Claudio Retamal",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9458,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "JUEVES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Claudia Oyanedel",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9459,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "JUEVES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Tomás Jimenez",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9458,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "JUEVES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Claudia Oyanedel",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9459,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "JUEVES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Tomás Jimenez",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9430,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "JUEVES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9431,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "JUEVES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9430,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "JUEVES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9431,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "JUEVES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9415,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "JUEVES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "María Paz Oyarzun",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9420,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "JUEVES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Pamela Espinoza",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9421,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "JUEVES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Gabriela Maturana",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9415,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "JUEVES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "María Paz Oyarzun",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9420,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "JUEVES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Pamela Espinoza",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9421,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "JUEVES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Gabriela Maturana",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9460,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "VIERNES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Andrea Soza",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12741,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "VIERNES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Manuel Rain",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 12743,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "VIERNES",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "09:20:00",
+        "profesor": "Francisca Villavicencio",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9349,
+        "nombre_curso": "Fisiopatología TAL",
+        "dia": "VIERNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "José Jimenez",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9432,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "VIERNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9433,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "VIERNES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9432,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "VIERNES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9433,
+        "nombre_curso": "QCA. ORG, AVAN.",
+        "dia": "VIERNES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Paul Silva",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 9465,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "VIERNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Andrea Soza",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12612,
+        "nombre_curso": "HITO INTEGRATIVO ",
+        "dia": "VIERNES",
+        "hora_inicio": "09:30:00",
+        "hora_fin": "10:50:00",
+        "profesor": "Rodrigo Perez",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9345,
+        "nombre_curso": "Fisiopatología TEO",
+        "dia": "JUEVES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9466,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "VIERNES",
+        "hora_inicio": "11:00:00",
+        "hora_fin": "12:20:00",
+        "profesor": "Claudio Retamal",
+        "tipo": "Laboratorio"
+    },
+    {
+        "nrc": 12611,
+        "nombre_curso": "HITO INTEGRATIVO ",
+        "dia": "JUEVES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "A definir",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 12744,
+        "nombre_curso": "EPIDEMIOLOGÍA",
+        "dia": "JUEVES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Cecilia Reyes",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9348,
+        "nombre_curso": "Fisiopatología TAL",
+        "dia": "JUEVES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9346,
+        "nombre_curso": "Fisiopatología TAL",
+        "dia": "JUEVES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Yasna Varetto",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9347,
+        "nombre_curso": "Fisiopatología TAL",
+        "dia": "VIERNES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Raúl Araneda",
+        "tipo": "Taller"
+    },
+    {
+        "nrc": 9457,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "VIERNES",
+        "hora_inicio": "12:30:00",
+        "hora_fin": "13:50:00",
+        "profesor": "Claudio Retamal",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9458,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "VIERNES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Claudia Oyanedel",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9459,
+        "nombre_curso": "BQCA GRAL.",
+        "dia": "VIERNES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "Tomás Jimenez",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9412,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "VIERNES",
+        "hora_inicio": "14:30:00",
+        "hora_fin": "15:50:00",
+        "profesor": "María Paz Oyarzun",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9413,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "VIERNES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Pamela Espinoza",
+        "tipo": "Teoría"
+    },
+    {
+        "nrc": 9414,
+        "nombre_curso": "AN. QCO. INST.",
+        "dia": "VIERNES",
+        "hora_inicio": "16:00:00",
+        "hora_fin": "17:20:00",
+        "profesor": "Anita Cataldo",
+        "tipo": "Teoría"
+    }
+]
