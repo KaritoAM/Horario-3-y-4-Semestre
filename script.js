@@ -1,4 +1,4 @@
-// Variables globales
+// Variables globales   
 let selectedCourses = {};
 let coursesData = [];
 
